@@ -1,0 +1,14 @@
+G:\Queens\StackQueens\bin\Debug\net6.0\StackQueens.exe
+G:\Queens\StackQueens\bin\Debug\net6.0\StackQueens.deps.json
+G:\Queens\StackQueens\bin\Debug\net6.0\StackQueens.runtimeconfig.json
+G:\Queens\StackQueens\bin\Debug\net6.0\StackQueens.dll
+G:\Queens\StackQueens\bin\Debug\net6.0\StackQueens.pdb
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.GeneratedMSBuildEditorConfig.editorconfig
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.AssemblyInfoInputs.cache
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.AssemblyInfo.cs
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.csproj.CoreCompileInputs.cache
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.dll
+G:\Queens\StackQueens\obj\Debug\net6.0\refint\StackQueens.dll
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.pdb
+G:\Queens\StackQueens\obj\Debug\net6.0\StackQueens.genruntimeconfig.cache
+G:\Queens\StackQueens\obj\Debug\net6.0\ref\StackQueens.dll
